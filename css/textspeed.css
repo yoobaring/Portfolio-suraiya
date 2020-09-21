@@ -12,7 +12,7 @@ html
     display: table-cell;
     vertical-align: middle;
     text-align: center;
-    } */
+    }  */
     
     /* Essential CSS - Makes the effect work */
     
@@ -28,7 +28,8 @@ html
     
     .bubbles h1 {
     position: relative;
-    margin: 1em 0 0;
+    margin: -1em 50 30;
+    font-size: 30px;
     font-family: 'Luckiest Guy', cursive;
     color: #fff;
     z-index: 2;
